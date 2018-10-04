@@ -6,7 +6,7 @@ $(document).ready(function(){
         itemsTablet:[768,1],
         pagination:false,
         navigation:true,
-        navigationText:["",""],
+        navigationText:["<img src='images/arrow-left.png'>","<img src='images/arrow-right.png'>"],
         autoPlay:true
     });
 });

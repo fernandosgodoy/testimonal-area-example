@@ -84,16 +84,7 @@
     position: absolute;
     right: -5%;
 }
-.owl-prev:after,
-.owl-next:after{
-    content: "\f104";
-    font-family: "Font Awesome 5 Free"; font-weight: 900;
-    font-size: 30px;
-    color: #c7373c;
-    opacity: 1;
-}
-.owl-next:after{ content: "\f105"; }
- 
+
 @media only screen and (max-width: 479px){
     .testimonial{ padding: 70px 10px 30px; }
     .testimonial .description:before{ top: -20px }
